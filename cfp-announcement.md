@@ -3,7 +3,7 @@ automotive devroom FOSDEM 2021
 
 
 Devroom date: <TBA> in FOSDEM Online Venue
-CFP deadline: Friday, 11th December 2020
+CFP deadline: Friday, 11th December 2020.
 
 Final speaker confirmation on Friday, December 18th 2018
 
@@ -26,7 +26,7 @@ Topics Sought
 
 The embedded devroom seeks topics related to automotive, industrial,
 mobile, consumer electronics, autonomous and generally embedded
-systems, either from a professional or hobbyist backgrounds. Topics
+systems, either from a professional or hobbyist background. Topics
 such as operating systems (Linux, free RTOS), hardware platforms (from
 microcontrollers to microprocessors, FPGAs) and software stacks are
 welcome. Related areas are of course of interest as well and our
@@ -35,7 +35,7 @@ definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 4th of December.
+Please submit proposals no later than the 11th of December.
 
 Please use the following URL to submit your talk to FOSDEM 2021
 
@@ -45,8 +45,8 @@ Please use the following URL to submit your talk to FOSDEM 2021
 and follow the following rules:
 
      * If you do not have an account yet, please create one, if you
-have submitted
-       a talk in one of the previous years, please re-use your old account.
+       have submitted a talk in one of the previous years, please
+       re-use your old account.
 
      * Select as the Track "Embedded, mobile and automotive devroom"
 
@@ -66,7 +66,7 @@ have submitted
        to share.
 
      * Also in the notes field please indicate your timezone so that we can
-	   schedule a convenient timeslot for you.
+       schedule a convenient timeslot for you.
 
      * Last but not least, make sure you have up to date contact info.
 
@@ -78,5 +78,5 @@ Subscribe here: https://lists.fosdem.org/listinfo/embedded-devroom
 About the devroom organizers
 --------------------------------------------------
 
-The co-organizers of the FOSDEM 2018 Embedded devroom are
+The co-organizers of the FOSDEM 2021 Embedded devroom are
 (in alphabetical order by surname):
