@@ -5,12 +5,10 @@ Embedded, Mobile and Automotive
 
 ## Elaborate description of proposed devroom (including possible topics)
 
-For many years the Embedded, Mobile and Automotive devroom was one of
-the most popular devrooms at FOSDEM. After an unfortune break in 2019,
-we are working hard to bring EMA devroom to its finest.
-
-The goal of this devroom is to showcase open source from embedded,
-mobile and automotive areas.
+Embedded Mobile and Automotive gathers hardware hackers, Linux fans
+and low-level programming enthusiasts. Its main goal is to showcase
+open source projects and allow people to share their experience,
+exchange knowledge and foster open collaboration.
 
 Possible topics include:
 * Hardware hacking
