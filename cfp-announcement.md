@@ -2,10 +2,10 @@ This email is a Call For Participation in the embedded, mobile and
 automotive devroom FOSDEM 2021
 
 
-Devroom date: <TBA> in FOSDEM Online Venue
-CFP deadline: Friday, 11th December 2020.
+Devroom date: 6th & 7th February in FOSDEM Online Venue
+CFP deadline: Friday, 25th December 2020.
 
-Final speaker confirmation on Friday, December 18th 2018
+Final speaker confirmation on Thursday, December 31th 2018
 
 
 CFP Introduction
@@ -39,7 +39,7 @@ Please submit proposals no later than the 11th of December.
 
 Please use the following URL to submit your talk to FOSDEM 2021
 
-<TBA penta link>
+https://penta.fosdem.org/submission/FOSDEM21
 
 
 and follow the following rules:
